@@ -1,0 +1,17 @@
+pomme 
+poire 
+banane
+poire 
+cerise 
+banane
+kiwi 
+orange 
+pomme 
+kiwi 
+fraise
+fraise 
+fraise 
+poire
+banane
+poire
+pomme

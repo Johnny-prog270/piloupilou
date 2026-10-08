@@ -13,3 +13,4 @@
 | N>&-         | delete N               |
 | exec 3> b    | 3 -> b                 |
 | &> b         | stderr + stdout ->  b  |
+|              |                        |

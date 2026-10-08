@@ -1,4 +1,4 @@
-
+di
 `$?`- return value of the last command
 
 `$$`- PID of the current process
